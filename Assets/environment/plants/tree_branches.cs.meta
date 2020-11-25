@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5f03099ae5f0840268d62dd0f2ebca72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - treeToGrow: {fileID: 1909987422660098857, guid: 016e61c8392d01247966412a32b6bd97,
+      type: 3}
+  - MaterialWhenGrab: {fileID: 2100000, guid: 7f2ed9db80407d640b65a813573e2d1d, type: 2}
+  - leaf: {fileID: 7367747951006831332, guid: b0c2e2f33f22c4ee48b97848af4ebb8a, type: 3}
+  - leaf_cube: {fileID: 3290886982664059264, guid: 2462f779a97e7f3468f43baf589bda4d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
